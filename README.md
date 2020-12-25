@@ -17,3 +17,6 @@ Rear Camera  | 13.0 MP + 2 MP, LED flash
 Front Camera | 8.0 MP
 Release Month | September 2019
  
+
+
+![Motorola 6](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/main_card_image/https/bdt.computerhoy.com/sites/default/files/Captura_de_pantalla_2019-11-11_a_las_14-removebg-preview.png?itok=yjbQIK98 "Moto E(6) Plus")
